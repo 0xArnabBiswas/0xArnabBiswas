@@ -13,7 +13,7 @@ I’m deeply passionate about Computer Science and love exploring new technologi
 | Platform | Handle |
 |----------|--------|
 |📧 **Email** | [arnabbiswas1257@gmail.com](mailto:arnabbiswas1257@gmail.com) |
-|𝕏 **Twitter** | [@0xArnabBiswass](https://twitter.com/0xArnabBiswass) | 
+|𝕏 **Twitter** | [@0xArnabBiswass](https://twitter.com/0xArnabBiswas) | 
 |👩🏻‍💻**LinkedIn** | [@arnabbiswass](https://linkedin.com/in/arnabbiswass) |
 </div>
 
